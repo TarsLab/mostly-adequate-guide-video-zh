@@ -1,0 +1,23 @@
+{
+  "name": "@tarslab/mostly-adequate-exercises",
+  "version": "1.0.0",
+  "description": "Support functions and data-structures from the Mostly Adequate Guide to Functional Programming, only fro exercises.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide"
+  },
+  "author": "@mostly-adequate",
+  "bugs": {
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/issues"
+  },
+  "homepage": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+  "keywords": [
+    "functional programming",
+    "mostly adequate",
+    "guide",
+    "fp",
+    "exercises"
+  ]
+}
