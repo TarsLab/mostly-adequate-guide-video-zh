@@ -1,0 +1,19 @@
+{
+    "name": "mostly-adequate-guide-video-zh",
+    "version": "1.0.0",
+    "description": "The Mostly Adequate Guide to Functional Programming",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TarsLab/mostly-adequate-guide-video-zh"
+    },
+    "keywords": [
+        "javascript",
+        "guide",
+        "functional programming"
+    ],
+    "author": "C jack<ae86jack@gmail.com>",
+    "license": "CC BY-SA",
+    "dependencies": {
+        "@tarslab/mostly-adequate-exercises": "^1.0.0"
+    }
+}
