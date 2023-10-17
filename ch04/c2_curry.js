@@ -1,4 +1,4 @@
-import { curry } from '../support';
+import { curry } from '@mostly-adequate/support';
 
 const match = curry((what, s) => s.match(what));
 const replace = curry((what, replacement, s) => s.replace(what, replacement));

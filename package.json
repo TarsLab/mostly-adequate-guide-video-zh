@@ -14,6 +14,7 @@
     "author": "C jack<ae86jack@gmail.com>",
     "license": "CC BY-SA",
     "dependencies": {
+        "@mostly-adequate/support": "^2.0.1",
         "@tarslab/mostly-adequate-exercises": "^1.0.0",
         "immutable": "^4.3.0"
     }
