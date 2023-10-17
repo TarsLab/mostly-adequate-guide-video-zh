@@ -14,9 +14,7 @@ console.log(hasLetterR('just j and s and t etc'));
 console.log(filter(hasLetterR, ['rock and roll', 'smooth jazz']));
 
 const removeStringsWithoutRs = filter(hasLetterR);
-console.log(
-  removeStringsWithoutRs(['rock and roll', 'smooth jazz', 'drum circle'])
-);
+console.log(removeStringsWithoutRs(['rock and roll', 'smooth jazz', 'drum circle']));
 
 const noVowels = replace(/[aeiou]/gi);
 const censored = noVowels('*');
