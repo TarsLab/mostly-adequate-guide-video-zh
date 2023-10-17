@@ -28,6 +28,7 @@
 
 # 油管视频导航
 
-- [第 1 章: 我们在做什么？](https://www.youtube.com/watch?v=SPglUwr-ClY)
-- [第 2 章: 一等公民的函数](https://www.youtube.com/watch?v=pK6ACSMsZJU)
+- [第 1 章: 我们在做什么？](https://youtu.be/SPglUwr-ClY)
+- [第 2 章: 一等公民的函数](https://youtu.be/pK6ACSMsZJU)
 - [第 3 章: 纯函数的好处](https://youtu.be/YguHPEeF3ko)
+- [第 4 章：柯里化(curry)](https://youtu.be/bRc-tm5m5y4)
