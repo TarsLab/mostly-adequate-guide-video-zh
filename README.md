@@ -2,9 +2,15 @@
 
 [函数式编程指南](https://github.com/MostlyAdequate/mostly-adequate-guide)的中文讲解系列视频，视频里面提到的代码和课件都在该项目里。
 
-视频系列中对白的主要参考[函数式编程指北](https://github.com/llh911001/mostly-adequate-guide-chinese)
+视频系列中对白的主要参考[函数式编程指北](https://github.com/llh911001/mostly-adequate-guide-chinese)。
 
-[油管视频播放列表 ｜ 函数式编程指南Mostly Adequate Guide to Functional Programming](https://www.youtube.com/playlist?list=PLRbfM7ni8J_b3srXmaUJQSghvnVbs5M0U)
+B站视频链接：
+
+- [第1章: 我们在做什么?](https://www.bilibili.com/video/BV11j411v7ft/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第2章: 一等公民的函数](https://www.bilibili.com/video/BV1fB4y1o74C/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第3章: 纯函数的好处](https://www.bilibili.com/video/BV1QM41197sz/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第4章: 柯里化 curry](https://www.bilibili.com/video/BV1v84y1972g/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第5章: 函数组合 compose](https://www.bilibili.com/video/BV1Ng4y1R76K/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 
 # 介绍
 
@@ -25,10 +31,3 @@
 - 幻灯片划重点，方便复习，[marp插件](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 ![幻灯片划重点，方便复习](./images/feature-marp.gif)
-
-# 油管视频导航
-
-- [第 1 章: 我们在做什么？](https://youtu.be/SPglUwr-ClY)
-- [第 2 章: 一等公民的函数](https://youtu.be/pK6ACSMsZJU)
-- [第 3 章: 纯函数的好处](https://youtu.be/YguHPEeF3ko)
-- [第 4 章：柯里化(curry)](https://youtu.be/bRc-tm5m5y4)
