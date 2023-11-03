@@ -50,7 +50,7 @@ paginate: true
 
 《函数式编程指南》
 
-# 代码组合<br/>(compose)
+# 函数组合<br/>(compose)
 
 ---
 
