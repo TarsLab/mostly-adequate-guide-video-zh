@@ -11,6 +11,7 @@ B站视频链接：
 - [第3章: 纯函数的好处](https://www.bilibili.com/video/BV1QM41197sz/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 - [第4章: 柯里化 curry](https://www.bilibili.com/video/BV1v84y1972g/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 - [第5章: 函数组合 compose](https://www.bilibili.com/video/BV1Ng4y1R76K/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第6章: 示例应用](https://www.bilibili.com/video/BV1Yb4y1M75n/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 
 # 介绍
 
