@@ -16,6 +16,8 @@
     "dependencies": {
         "@mostly-adequate/support": "^2.0.1",
         "@tarslab/mostly-adequate-exercises": "^1.0.0",
-        "immutable": "^4.3.0"
+        "data.task": "^3.1.2",
+        "immutable": "^4.3.0",
+        "moment": "^2.29.4"
     }
 }

@@ -74,13 +74,13 @@ paginate: true
 
 ---
 
-![bg right fit](images/cover.png)
+![bg right fit](images/jar-functor.jpg)
 
 第 8 章
 
 《函数式编程指南》
 
-# 特百惠
+# Functor
 
 ---
 
