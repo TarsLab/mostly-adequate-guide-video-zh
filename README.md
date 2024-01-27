@@ -13,6 +13,7 @@ B站视频链接：
 - [第5章: 函数组合 compose](https://www.bilibili.com/video/BV1Ng4y1R76K/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 - [第6章: 示例应用](https://www.bilibili.com/video/BV1Yb4y1M75n/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 - [第7章: Hindley-Milner类型签名](https://www.bilibili.com/video/BV1HN411j7Nt/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
+- [第8章: Functor 函子 Maybe、Either、IO、Task](https://www.bilibili.com/video/BV1wC4y1679Q/?share_source=copy_web&vd_source=580ef492c06a7e7fa3902ed3134fd80a)
 
 # 介绍
 
